@@ -1,0 +1,2 @@
+# All notebooks use the Python standard library only.
+# No third-party packages are required.

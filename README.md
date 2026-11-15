@@ -17,6 +17,4 @@ This repository contains the work for CSA08 Assignment 4.
 - `Task06/` – College Fest Registration Desk
 - `Final_Submission/` – Combined final report and final submission files
 
-## Upload instructions
 
-Put each task's files directly inside its matching task folder. You can keep the notebook, screenshots, Word report and any supporting files together there. Put the combined final report in `Final_Submission/`.
